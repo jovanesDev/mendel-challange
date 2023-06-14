@@ -39,9 +39,7 @@ const BookContainer = memo(function BookContainer(props) {
                     </Text>  
                 </Button>
                 <Skeleton 
-                    p={'10'} 
                     my={'10'} 
-                    height={'full'}  
                     isLoaded={imageLoaded}
                 >
                     <Img

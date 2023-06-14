@@ -25,6 +25,8 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 3. Instala las dependencias: `npm install`
 4. Ejecuta el proyecto: `npm start`
 
-## Enlace de Demostración
+## Enlace de Demo
+Puedes encontrar una demostración del proyecto en [este enlace](https://mendel-challange-2ssj.vercel.app/).
 
-Puedes encontrar una demostración del proyecto en [este enlace](https://www.google.com).
+## Despliegue en Vercel
+El proyecto ha sido desplegado en [Vercel](https://vercel.com/), una plataforma de alojamiento y despliegue para aplicaciones web. Vercel facilita el proceso de despliegue y proporciona opciones de configuración flexibles.
