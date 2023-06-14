@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Mendel Front End Challange 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este challenge consiste en crear un buscador de libros utilizando React.js. El objetivo principal es mostrar los resultados de búsqueda en una lista paginada, donde cada elemento de la lista representa un libro y muestra información relevante sobre el mismo. Además, se debe implementar la funcionalidad de acceder al detalle de un libro al hacer clic en él, proporcionando información detallada al usuario.
 
-## Available Scripts
+## Librerías utilizadas
 
-In the project directory, you can run:
+- [@ajna/pagination](https://www.npmjs.com/package/@ajna/pagination): ^1.4.19
+- [@chakra-ui/icons](https://www.npmjs.com/package/@chakra-ui/icons): ^2.0.19
+- [@chakra-ui/react](https://www.npmjs.com/package/@chakra-ui/react): ^2.7.0
+- [@emotion/react](https://www.npmjs.com/package/@emotion/react): ^11.11.1
+- [@emotion/styled](https://www.npmjs.com/package/@emotion/styled): ^11.11.0
+- [axios](https://www.npmjs.com/package/axios): ^1.4.0
+- [formik](https://www.npmjs.com/package/formik): ^2.4.1
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom): ^6.12.1
+- [yup](https://www.npmjs.com/package/yup): ^1.2.0
+- [eslint](https://www.npmjs.com/package/eslint): ^8.42.0
+- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.32.2
 
-### `npm start`
+## Cómo ejecutar el proyecto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Sigue estos pasos para ejecutar el proyecto localmente:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clona el repositorio: `git clone https://github.com/jovanesDev/mendel-challange.git`
+2. Navega al directorio del proyecto: `cd mendel-challange`
+3. Instala las dependencias: `npm install`
+4. Ejecuta el proyecto: `npm start`
 
-### `npm test`
+## Enlace de Demostración
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Puedes encontrar una demostración del proyecto en [este enlace](https://www.google.com).
